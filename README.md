@@ -82,7 +82,6 @@ ProcessCommandLine
 Search the DeviceNetworkEvents table for any indication the tor browser was used to establish a connection using any of the known tor ports.
 
 At 11:58:09 AM on March 21, 2025, on the device 'sz-threat-lab', the user 'labuser' successfully established a connection using the process 'tor.exe' to the remote IP address 45.88.104.74 on port 9001. Port 9001 is commonly associated with Tor network traffic.There was also a couple of other connections to sites over port 443.
-![image](https://github.com/user-attachments/assets/fea50ed4-a22b-4cc2-83ff-a17df014ecd9)
 
 
 **Query used to locate events:**
